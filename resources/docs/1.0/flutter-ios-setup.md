@@ -17,7 +17,7 @@ In this article, we are going to set up the TYT App’s initial setup for real-t
 
 <strong> Note: Before ios setup, please complete all the server & firebase & code changes, map setup which is mentioned in android setup & server setup sections. </strong>
 
-<strong> flutter version for this project is 'Channel beta, 2.11.0-0.1.pre'</strong>
+<strong> flutter version for this project is 'Channel beta, 3.3.0'</strong>
 
 
 * change some details in given files,

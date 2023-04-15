@@ -29,7 +29,7 @@ In this article, we are going to set up the TYT App’s initial setup for real-t
 <a name="section-2"></a>
 ## Setup Instructions
 
-* flutter version for this project is 'Channel stable, 2.10.2'
+* flutter version for this project is 'Channel stable, 3.3.0'
 
 * Open your project File the Visual Studio Code which is used to create the project and also it is very powerful.
 
@@ -397,25 +397,7 @@ android:label="project name"
           notificationTitle: "Location background service running",
 ```
 
-3. Change App url to awake driver app from background while getting ride
-  <strong>Note: File Location "project/lib/functions/functions.dart" </strong>
 
-  ```flutter
-  if (duration == 0 || duration == 0.0) {
-            if (isBackground == true && platform == TargetPlatform.android) {
-              launch('urlname://'); //example:tagxi-driver://
-            } else if (platform != TargetPlatform.android) {
-  ```
-
-
-
-<strong> Note: File Location "project/android/app/src/main/AndroidManifest.xml" </strong>
-
-```flutter
-<category android:name="android.intent.category.BROWSABLE" />
-        <data android:scheme="urlname" /> //example:tagxi-driver
-    </intent-filter>
-```
 
 <a name="section-10"></a>
 ## change payment gateway keys

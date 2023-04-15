@@ -14,9 +14,7 @@
 
 Please look at the below versions
 
-<strong> flutter version for Android project is 'Channel stable, 2.10.2'</strong>
-
-<strong> flutter version for IOS project is 'Channel beta, 2.11.0-0.1.pre'</strong>
+<strong> flutter version for Android & Ios project is 'Channel stable, 3.3.0'</strong>
 
 
 

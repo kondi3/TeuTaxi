@@ -7,6 +7,7 @@
     - [Flutter-Android Setup](/{{route}}/{{version}}/flutter-android-setup)
     - [Flutter-IOS Setup](/{{route}}/{{version}}/flutter-ios-setup)
     - [Flutter-Translation Setup](/{{route}}/{{version}}/flutter-translation-setup)
+    - [Payment Gateway Setup](/{{route}}/{{version}}/payment-gateway-setup)
 
 
 
