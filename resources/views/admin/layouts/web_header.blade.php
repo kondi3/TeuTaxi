@@ -38,11 +38,12 @@
 
       <!-- Brand -->
       <a class="navbar-brand order-1 order-md-1" href="index.php">
-        @if($data)
+        {{-- @if($data)
         
         <img src="{{ asset($p.$data->faviconfile) }}" alt="Logo" style="max-width: 150px;">
         
-        @endif
+        @endif --}}
+        TeuTaxi
       </a>
 
       <!--<a class="navbar-brand order-3 order-md-2">
